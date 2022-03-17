@@ -1,0 +1,256 @@
+[ux_slider bg_color="rgba(0, 0, 0, 0)" hide_nav="true" nav_pos="outside" nav_style="simple" bullets="false" timer="3000" pause_hover="false"]
+
+[section label="Slide 1" bg="230" bg_pos="0% 12%" dark="true" padding="0px" height="500px" border="0px 0px 20px 0px" border_margin="0px 0px 0px 0px" border_radius="0" border_color="rgba(0, 0, 0, 0)"]
+
+[row]
+
+[col span="5" span__sm="12" span__md="7"]
+
+[ux_text text_color="rgb(67, 152, 48)"]
+
+<h2><span style="font-size: 200%;">Become Prime Today !</span></h2>
+<span style="font-size: 110%;">Get Prime as low as $9.99 Subscription !</span>
+[/ux_text]
+[button text="Subscribe Now !" color="alert" icon="icon-star" icon_pos="left" link="https://e-rocket.site/product/prime-membership/"]
+
+
+[/col]
+
+[/row]
+
+[/section]
+
+[/ux_slider]
+[section bg_color="rgb(245, 247, 251)" bg_overlay="rgb(255, 255, 255)"]
+
+[row]
+
+[col span__sm="12" margin="-100px 0px 0px 0px"]
+
+[row_inner style="small" col_bg="rgb(255,255,255)" padding="30px 30px 30px 30px" depth="1" depth_hover="4"]
+
+[col_inner span="3" span__sm="12" span__md="6"]
+
+[featured_box img="224" pos="center"]
+
+<h2 id="prime-benefit-module-content-delivery-item-name" class="headline2">E-Rocket Day</h2>
+<p>Shop all the week &amp; receive in one day.</p>
+
+[/featured_box]
+
+[/col_inner]
+[col_inner span="3" span__sm="12" span__md="6"]
+
+[featured_box img="223" pos="center"]
+
+<h3>10% Discount</h3>
+<p>Get Discounts on all Category Items !</p>
+
+[/featured_box]
+
+[/col_inner]
+[col_inner span="3" span__sm="12" span__md="6"]
+
+[featured_box img="222" pos="center"]
+
+<h3>Free Shipping</h3>
+<p>Enjoy Same Day Delivery on all items.</p>
+
+[/featured_box]
+
+[/col_inner]
+[col_inner span="3" span__sm="12" span__md="6"]
+
+[featured_box img="225" pos="center"]
+
+<h3>Priority Support</h3>
+<p>You'll be responded back immediatly !</p>
+
+[/featured_box]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+
+[/row]
+
+[/section]
+[section label="Pricing Table 7" bg_color="rgb(245, 247, 251)" bg_overlay="rgba(255, 255, 255, 0.32)" padding="60px"]
+
+[row label="Title"]
+
+[col span__sm="12" align="center"]
+
+<h2>Subscription Plans</h2>
+
+[/col]
+
+[/row]
+[tabgroup style="pills" nav_size="large" align="center"]
+
+[tab title="Yearly"]
+
+[row h_align="center" padding="50px 50px 50px 50px"]
+
+[col span="6" span__sm="12" span__md="8" align="center" bg_color="rgb(255,255,255)"]
+
+<h4><span style="font-size: 300%;">$99.99</span></h4>
+<p>Per year, billed annually</p>
+[divider width="100%" height="2px" color="rgb(111, 166, 212)"]
+
+[row_inner label="List Item 1" style="collapse"]
+
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>Membership</p>
+
+[/col_inner]
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>Prime</p>
+
+[/col_inner]
+
+[/row_inner]
+[row_inner label="List Item 2" style="collapse"]
+
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>Period</p>
+
+[/col_inner]
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>Yearly</p>
+
+[/col_inner]
+
+[/row_inner]
+[row_inner label="List Item 3" style="collapse"]
+
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>Billed now</p>
+
+[/col_inner]
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>$99.99 - <strong>Save 20%</strong></p>
+
+[/col_inner]
+
+[/row_inner]
+[button text="Subscribe Now" radius="99" expand="true" link="https://e-rocket.site/product/prime-membership-annually/"]
+
+
+[/col]
+
+[/row]
+
+[/tab]
+[tab title="Monthly"]
+
+[row h_align="center" padding="50px 50px 50px 50px"]
+
+[col span="6" span__sm="12" span__md="8" align="center" bg_color="rgb(255,255,255)"]
+
+<h4><span style="font-size: 300%;">$9.99</span></h4>
+<p>Per month, billed monthly</p>
+[divider width="100%" height="2px" color="rgb(111, 166, 212)"]
+
+[row_inner label="List Item 1" style="collapse"]
+
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>Membership</p>
+
+[/col_inner]
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>Prime</p>
+
+[/col_inner]
+
+[/row_inner]
+[row_inner label="List Item 2" style="collapse"]
+
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>Period</p>
+
+[/col_inner]
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>1 Month</p>
+
+[/col_inner]
+
+[/row_inner]
+[row_inner label="List Item 3" style="collapse"]
+
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>Billed now</p>
+
+[/col_inner]
+[col_inner span="6" span__sm="6" align="left"]
+
+<p>$9.99</p>
+
+[/col_inner]
+
+[/row_inner]
+[button text="Subscribe Now" radius="99" expand="true" link="https://e-rocket.site/product/prime-membership/"]
+
+
+[/col]
+
+[/row]
+
+[/tab]
+
+[/tabgroup]
+
+[/section]
+[section label="FAQs 1" bg_color="rgb(255, 255, 255)" bg_overlay="rgba(177, 177, 177, 0.32)" padding="60px"]
+
+[row label="Title"]
+
+[col span__sm="12" align="center"]
+
+<h1 id="prime-faq-module-headline" class="headline1">You may be wondering</h1>
+
+[/col]
+
+[/row]
+[row label="FAQs" h_align="center" padding="30px 30px 30px 30px" padding__sm="0px 0px 0px 0px" depth="1"]
+
+[col span="9" span__sm="12" span__md="10" bg_color="rgb(255,255,255)"]
+
+[accordion]
+
+[accordion-item title="If I’m not satisfied, what is the Prime cancellation policy? Will I be refunded?"]
+
+<p>If you signed-up for your Prime membership directly through us, you may cancel your Prime membership at any time by visiting Your Account and adjusting your membership settings. Paid members who haven't used their benefits are eligible for up to a full refund of the current membership period.</p>
+
+[/accordion-item]
+[accordion-item title="When will I be billed for my membership?"]
+
+<p>When your membership period ends we'll automatically charge for the next membership period.</p>
+
+[/accordion-item]
+[accordion-item title="What items are specialized for prime members ?"]
+
+<p>Products containing star emblems are dedicated to prime members containing special discounts.</p>
+
+[/accordion-item]
+
+[/accordion]
+
+[/col]
+
+[/row]
+
+[/section]

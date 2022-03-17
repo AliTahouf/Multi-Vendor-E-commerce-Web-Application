@@ -1,0 +1,158 @@
+[ux_banner label="banner" bg_color="rgb(247, 245, 244)" video_visibility="visible" visibility="show-for-small"]
+
+
+[/ux_banner]
+[section label="Hero" bg="56" bg_size="original" bg_overlay="rgba(0, 0, 0, 0.5)" bg_overlay__md="rgba(0, 0, 0, 0.5)" bg_pos="62% 41%" dark="true" padding="20px" height="600px" scroll_for_more="true"]
+
+[row v_align="middle"]
+
+[col span__sm="12" span__md="8"]
+
+<h6 class="uppercase">Buy.think.grow</h6>
+<h1 style="font-size: 350%; line-height: 100%;">Welcome to E-Rocket</h1>
+<h5>Multi-Vendor E-Commerce Marketplace</h5>
+<h1 style="font-size: 200%;">&nbsp;</h1>
+[gap height="5px"]
+
+[button text="About Us" letter_case="lowercase" color="white" size="xlarge" radius="99" link="https://e-rocket.site/about-us/"]
+
+
+[/col]
+
+[/row]
+
+[/section]
+[section]
+
+<p><!--Row that Contains 3 Columns--></p>
+[row col_style="solid" padding="20px 20px 20px 20px"]
+
+<p><!--Column 1--></p>
+[col span="4" span__sm="12"]
+
+[featured_box img="64" img_width="50" pos="center"]
+
+<h3>24/7 Support</h3>
+<p>Our Expertise are always one click away</p>
+
+[/featured_box]
+
+[/col]
+<p><!--Column 2--></p>
+[col span="4" span__sm="12"]
+
+[featured_box img="67" img_width="50" pos="center"]
+
+<h3><strong>30 Days Return</strong></h3>
+<p><span style="font-size: 80%;">Faulty product / Doesn't meet expectation</span></p>
+
+[/featured_box]
+
+[/col]
+<p><!--Column 3--></p>
+[col span="4" span__sm="12"]
+
+[featured_box img="66" img_width="50" pos="center"]
+
+<h3><strong>Simple Payment</strong></h3>
+<p>Cash On Delivery / Online Payments</p>
+
+[/featured_box]
+
+[/col]
+
+[/row]
+
+[/section]
+[row label="Block Banner"]
+
+[col span__sm="12"]
+
+[gap height="70px"]
+
+[row_inner style="small"]
+
+[col_inner span="8" span__sm="12" span__md="12" align="center"]
+
+[section bg="73" bg_overlay="rgba(0, 0, 0, 0.552)" dark="true" padding="0px" height="500px" height__sm="350px"]
+
+[ux_text font_size="1.35"]
+
+<h2 class="uppercase">New Collection</h2>
+[/ux_text]
+[button text="Shop now" color="white" radius="5" link="https://e-rocket.site/shop/"]
+
+
+[/section]
+
+[/col_inner]
+[col_inner span="4" span__sm="12" span__md="12" align="center"]
+
+[section bg="78" bg_color="rgb(187, 162, 142)" bg_overlay="rgba(0, 0, 0, 0.169)" dark="true" padding="0px" height="240px" height__sm="250px"]
+
+[gap]
+
+[ux_text font_size="1.25"]
+
+<h3 class="uppercase">BECOME A PRIME&nbsp;</h3>
+[/ux_text]
+[divider]
+
+[button text="JOIN NOW" color="white" radius="5" link="https://e-rocket.site/prime/"]
+
+
+[/section]
+[gap height="20px"]
+
+[section bg="83" bg_overlay="rgba(0, 0, 0, 0.48)" dark="true" padding="0px" height="240px" height__sm="250px"]
+
+[gap]
+
+[ux_text font_size="1.25"]
+
+<strong>JOIN OUR AUCTION</strong>
+[/ux_text]
+[button text="VIEW AUCTIONS" color="white" radius="5" link="https://e-rocket.site/auction/"]
+
+
+[/section]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+
+[/row]
+[title style="center" text="Featured Products" size="156"]
+
+[ux_products style="bounce" col_spacing="normal" equalize_box="true" products="9" orderby="title" order="asc" tags="20"]
+
+[title style="center" text="Featured Bids" size="156"]
+
+[ux_products col_spacing="normal" columns__sm="2" columns__md="4" cat="0" tags="39"]
+
+[section label="Newsletter" bg="154" bg_overlay="rgba(0, 0, 0, 0.35)" bg_pos="56% 54%" dark="true" padding="135px" padding__sm="55px" padding__md="100px"]
+
+[row h_align="center"]
+
+[col span="7" span__sm="12" span__md="9" align="center"]
+
+[gap height__sm="40px"]
+
+[ux_text font_size="2" line_height="1"]
+
+<h3>Sign up now</h3>
+[/ux_text]
+<p style="text-align: center;"><span style="font-size: 120%;">Stay up to date with our latest offers and promotions by signing up to our newsletter</span></p>
+[gap height="10px" height__md="5px"]
+
+[contact-form-7 id="538"]
+
+
+[/col]
+
+[/row]
+
+[/section]
+[gap]
