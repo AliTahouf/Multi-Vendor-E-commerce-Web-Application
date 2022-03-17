@@ -1,0 +1,322 @@
+[section label="Countdown" bg="263" bg_overlay="rgba(0, 0, 0, 0.25)" bg_pos="63% 54%" dark="true" height="400px" height__sm="450px"]
+
+[gap height="50px"]
+
+[row h_align="center"]
+
+[col span="7" span__sm="12" span__md="9" align="center"]
+
+[ux_text font_size="1.5"]
+<h2 class="uppercase">EXCLUSIVE DEALS</h2>
+[/ux_text]
+
+<span style="font-size: 150%;">Enjoy Our Weekly Limited Time Offers!</span>
+
+[ux_countdown size="200" color="light" year="2022" month="3" day="20"]
+
+[/col]
+
+[/row]
+
+[/section]
+[gap]
+
+[gap]
+
+[gap]
+
+[section label="Pricing Product Highlight" bg_color="rgb(245, 247, 251)" padding="20px"]
+
+[row label="Boxes" col_bg="rgb(255,255,255)" v_align="equal" h_align="center"]
+
+[col span="4" span__sm="12" span__md="6" bg_radius="10" depth="2"]
+
+[row_inner label="Title" style="collapse"]
+
+[col_inner span__sm="12" padding="30px 0px 30px 0px" align="center" bg_color="rgb(111, 166, 212)" bg_radius="10" color="light" border="0px 0px 10px 0px" border_color="rgb(255, 255, 255)"]
+<h1>Bed</h1>
+<h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large product-title-word-break" style="font-size: 75%;">&nbsp;Queen Platform Bed Frame&nbsp;</span></h1>
+[/col_inner]
+
+[/row_inner]
+[row_inner label="Info" style="collapse" padding="0px 40px 0px 40px" padding__sm="0px 30px 0px 30px" padding__md="0px 20px 0px 20px"]
+
+[col_inner span__sm="12" margin="20px 0px 0px 0px" align="center"]
+
+[ux_image id="273" image_hover="zoom" link="#"]
+<h2>$560</h2>
+You save $<strong><span style="color: #30a075;">299</span></strong>
+
+[button text="Shop now" color="success" size="large" radius="10" expand="true" icon="icon-shopping-cart" icon_pos="left" link="https://e-rocket.site/product/bed-queen-platform-bed-frame/"]
+
+[button text="Next day delivery" color="secondary" style="link" size="small" icon="icon-clock" icon_pos="left"]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+[col span="4" span__sm="12" span__md="6" bg_radius="10" depth="2"]
+
+[row_inner label="Title" style="collapse"]
+
+[col_inner span__sm="12" padding="30px 0px 30px 0px" align="center" bg_color="rgb(111, 166, 212)" bg_radius="10" color="light" border="0px 0px 10px 0px" border_color="rgb(255, 255, 255)"]
+<h1 id="title" class="a-size-large a-spacing-none">Cabinet</h1>
+<h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large product-title-word-break" style="font-size: 75%;">Walker Edison Cass Modern</span></h1>
+[row_inner_1 label="Best Seller Badge" style="collapse" h_align="center"]
+
+[col_inner_1 span="10" span__sm="10" margin="0px 0px -80px 0px" align="center" bg_radius="100" color="light"]
+
+[button text="Best seller" color="alert" size="small" radius="5"]
+
+[/col_inner_1]
+
+[/row_inner_1]
+
+[/col_inner]
+
+[/row_inner]
+[row_inner label="Info" style="collapse" padding="0px 40px 0px 40px" padding__sm="0px 30px 0px 30px" padding__md="0px 20px 0px 20px"]
+
+[col_inner span__sm="12" margin="20px 0px 0px 0px" align="center"]
+
+[ux_image id="281" image_hover="zoom" link="#"]
+<h2>$300</h2>
+You save $<strong><span style="color: #30a075;">349</span></strong>
+
+[button text="Shop now" color="success" size="large" radius="10" expand="true" icon="icon-shopping-cart" icon_pos="left" link="https://e-rocket.site/product/cabinet-walker-edison-cass-modern/"]
+
+[button text="Next day delivery" color="secondary" style="link" size="small" icon="icon-clock" icon_pos="left"]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+[col span="4" span__sm="12" span__md="6" bg_radius="10" depth="2"]
+
+[row_inner label="Title" style="collapse"]
+
+[col_inner span__sm="12" padding="30px 0px 30px 0px" align="center" bg_color="rgb(111, 166, 212)" bg_radius="10" color="light" border="0px 0px 10px 0px" border_color="rgb(255, 255, 255)"]
+<h1>Office Chair</h1>
+<h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large product-title-word-break">&nbsp;Ergonomic Desk Chair</span></h1>
+[/col_inner]
+
+[/row_inner]
+[row_inner label="Info" style="collapse" padding="0px 40px 0px 40px" padding__sm="0px 30px 0px 30px" padding__md="0px 20px 0px 20px"]
+
+[col_inner span__sm="12" margin="20px 0px 0px 0px" align="center"]
+
+[ux_image id="276" margin="8px 8px 8px 8" image_hover="zoom" link="#"]
+<h2>$250</h2>
+You save $<strong><span style="color: #30a075;">140</span></strong>
+
+[button text="Shop now" color="success" size="large" radius="10" expand="true" icon="icon-shopping-cart" icon_pos="left" link="https://e-rocket.site/product/office-chair-ergonomic-desk-chair/"]
+
+[button text="Next day delivery" color="secondary" style="link" size="small" icon="icon-clock" icon_pos="left"]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+
+[/row]
+
+[/section]
+[section label="Pricing Product Highlight" bg_color="rgb(245, 247, 251)" padding="20px"]
+
+[row label="Boxes" col_bg="rgb(255,255,255)" v_align="equal" h_align="center"]
+
+[col span="4" span__sm="12" span__md="6" bg_radius="10" depth="2"]
+
+[row_inner label="Title" style="collapse"]
+
+[col_inner span__sm="12" padding="30px 0px 30px 0px" align="center" bg_color="rgb(111, 166, 212)" bg_radius="10" color="light" border="0px 0px 10px 0px" border_color="rgb(255, 255, 255)"]
+<h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large product-title-word-break">BBQ Grill</span></h1>
+<h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large product-title-word-break" style="font-size: 75%;">Royal Gourmet GA4400T</span></h1>
+[/col_inner]
+
+[/row_inner]
+[row_inner label="Info" style="collapse" padding="0px 40px 0px 40px" padding__sm="0px 30px 0px 30px" padding__md="0px 20px 0px 20px"]
+
+[col_inner span__sm="12" margin="20px 0px 0px 0px" align="center"]
+
+[ux_image id="275" image_hover="zoom"]
+<h2>$449</h2>
+You save $<strong><span style="color: #30a075;">99</span></strong>
+
+[button text="Shop now" color="success" size="large" radius="10" expand="true" icon="icon-shopping-cart" icon_pos="left" link="https://e-rocket.site/product/bbq-grill-royal-gourmet-ga4400t/"]
+
+[button text="Next day delivery" color="secondary" style="link" size="small" icon="icon-clock" icon_pos="left"]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+[col span="4" span__sm="12" span__md="6" bg_radius="10" depth="2"]
+
+[row_inner label="Title" style="collapse"]
+
+[col_inner span__sm="12" padding="30px 0px 30px 0px" align="center" bg_color="rgb(111, 166, 212)" bg_radius="10" color="light" border="0px 0px 10px 0px" border_color="rgb(255, 255, 255)"]
+<h1>Router</h1>
+<h1>TP Link 3 Antennas</h1>
+[row_inner_1 label="Best Seller Badge" style="collapse" h_align="center"]
+
+[col_inner_1 span="10" span__sm="10" margin="0px 0px -80px 0px" align="center" bg_radius="100" color="light"]
+
+[/col_inner_1]
+
+[/row_inner_1]
+
+[/col_inner]
+
+[/row_inner]
+[row_inner label="Info" style="collapse" padding="0px 40px 0px 40px" padding__sm="0px 30px 0px 30px" padding__md="0px 20px 0px 20px"]
+
+[col_inner span__sm="12" margin="20px 0px 0px 0px" align="center"]
+
+[ux_image id="280" image_hover="zoom"]
+<h2>$25</h2>
+You save $<strong><span style="color: #30a075;">14</span></strong>
+
+[gap]
+
+[button text="Shop now" color="success" size="large" radius="10" expand="true" icon="icon-shopping-cart" icon_pos="left" link="https://e-rocket.site/product/tp-link-3-antennas-router/"]
+
+[button text="Next day delivery" color="secondary" style="link" size="small" icon="icon-clock" icon_pos="left"]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+[col span="4" span__sm="12" span__md="6" bg_radius="10" depth="2"]
+
+[row_inner label="Title" style="collapse"]
+
+[col_inner span__sm="12" padding="30px 0px 30px 0px" align="center" bg_color="rgb(111, 166, 212)" bg_radius="10" color="light" border="0px 0px 10px 0px" border_color="rgb(255, 255, 255)"]
+<h1>Alexa</h1>
+<h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large product-title-word-break">Echo Dot (3rd Gen)</span></h1>
+[/col_inner]
+
+[/row_inner]
+[row_inner label="Info" style="collapse" padding="0px 40px 0px 40px" padding__sm="0px 30px 0px 30px" padding__md="0px 20px 0px 20px"]
+
+[col_inner span__sm="12" margin="20px 0px 0px 0px" align="center"]
+
+[ux_image id="274" width="91" image_hover="zoom" link="#"]
+<h2>$20</h2>
+You save $<strong><span style="color: #30a075;">22</span></strong>
+
+[button text="Shop now" color="success" size="large" radius="10" expand="true" icon="icon-shopping-cart" icon_pos="left" link="https://e-rocket.site/product/alexa-echo-dot-3rd-gen/"]
+
+[button text="Next day delivery" color="secondary" style="link" size="small" icon="icon-clock" icon_pos="left"]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+
+[/row]
+
+[/section]
+[section label="Pricing Product Highlight" bg_color="rgb(245, 247, 251)" padding="20px"]
+
+[row label="Boxes" col_bg="rgb(255,255,255)" v_align="equal" h_align="center"]
+
+[col span="4" span__sm="12" span__md="6" bg_radius="10" depth="2"]
+
+[row_inner label="Title" style="collapse"]
+
+[col_inner span__sm="12" padding="30px 0px 30px 0px" align="center" bg_color="rgb(111, 166, 212)" bg_radius="10" color="light" border="0px 0px 10px 0px" border_color="rgb(255, 255, 255)"]
+<h1>Watch</h1>
+<h1>Apple Watch 256 GB</h1>
+[/col_inner]
+
+[/row_inner]
+[row_inner label="Info" style="collapse" padding="0px 40px 0px 40px" padding__sm="0px 30px 0px 30px" padding__md="0px 20px 0px 20px"]
+
+[col_inner span__sm="12" margin="20px 0px 0px 0px" align="center"]
+
+[ux_image id="289" width="95" image_hover="zoom" link="#"]
+<h2>$240</h2>
+You save $<strong><span style="color: #30a075;">29</span></strong>
+
+[button text="Shop now" color="success" size="large" radius="10" expand="true" icon="icon-shopping-cart" icon_pos="left" link="https://e-rocket.site/product/apple-watch-256-gb/"]
+
+[button text="Next day delivery" color="secondary" style="link" size="small" icon="icon-clock" icon_pos="left"]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+[col span="4" span__sm="12" span__md="6" bg_radius="10" depth="2"]
+
+[row_inner label="Title" style="collapse"]
+
+[col_inner span__sm="12" padding="30px 0px 30px 0px" align="center" bg_color="rgb(111, 166, 212)" bg_radius="10" color="light" border="0px 0px 10px 0px" border_color="rgb(255, 255, 255)"]
+<h1>iPhone 11</h1>
+<h1>256 GB</h1>
+[row_inner_1 label="Best Seller Badge" style="collapse" h_align="center"]
+
+[col_inner_1 span="10" span__sm="10" margin="0px 0px -80px 0px" align="center" bg_radius="100" color="light"]
+
+[/col_inner_1]
+
+[/row_inner_1]
+
+[/col_inner]
+
+[/row_inner]
+[row_inner label="Info" style="collapse" padding="0px 40px 0px 40px" padding__sm="0px 30px 0px 30px" padding__md="0px 20px 0px 20px"]
+
+[col_inner span__sm="12" margin="20px 0px 0px 0px" align="center"]
+
+[ux_image id="270" width="98" image_hover="zoom" link="#"]
+<h2>$999</h2>
+You save $<strong><span style="color: #30a075;">100</span></strong>
+
+[button text="Shop now" color="success" size="large" radius="10" expand="true" icon="icon-shopping-cart" icon_pos="left" link="https://e-rocket.site/product/iphone-11-256-gb/"]
+
+[button text="Next day delivery" color="secondary" style="link" size="small" icon="icon-clock" icon_pos="left"]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+[col span="4" span__sm="12" span__md="6" bg_radius="10" depth="2"]
+
+[row_inner label="Title" style="collapse"]
+
+[col_inner span__sm="12" padding="30px 0px 30px 0px" align="center" bg_color="rgb(111, 166, 212)" bg_radius="10" color="light" border="0px 0px 10px 0px" border_color="rgb(255, 255, 255)"]
+<h1>Pillow</h1>
+<h1 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large product-title-word-break" style="font-size: 75%;">Tempur-Pedic&nbsp; Pillow&nbsp;</span></h1>
+[/col_inner]
+
+[/row_inner]
+[row_inner label="Info" style="collapse" padding="0px 40px 0px 40px" padding__sm="0px 30px 0px 30px" padding__md="0px 20px 0px 20px"]
+
+[col_inner span__sm="12" margin="20px 0px 0px 0px" align="center"]
+
+[ux_image id="294" image_size="large" image_hover="zoom" link="#"]
+<h2>$25</h2>
+You save $<strong><span style="color: #30a075;">15</span></strong>
+
+[button text="Shop now" color="success" size="large" radius="10" expand="true" icon="icon-shopping-cart" icon_pos="left" link="https://e-rocket.site/product/pillow-tempur-pedic/"]
+
+[button text="Next day delivery" color="secondary" style="link" size="small" icon="icon-clock" icon_pos="left"]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+
+[/row]
+
+[/section]

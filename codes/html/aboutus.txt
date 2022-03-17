@@ -1,0 +1,181 @@
+<p><!--Background Pic--></p>
+[section label="PIC" bg="175" bg_overlay="rgba(59, 59, 59, 0.448)" bg_pos="59% 38%" dark="true" height="350px" height__sm="290px"]
+
+[gap]
+
+[row h_align="center"]
+
+[col span="5" span__sm="12" span__md="7" align="center"]
+
+<p><!--Overlay Title 1 --></p>
+[ux_text font_size="1.75"]
+
+<h1>Who We Are</h1>
+[/ux_text]
+<p><!--Default Template Code For Design--></p>
+<div class="message-2qnXI6 cozyMessage-3V1Y8y wrapper-2a6GCs cozy-3raOZG zalgo-jN1Ica" tabindex="-1" role="article" data-list-item-id="chat-messages___chat-messages-917145596157108254" aria-setsize="-1" aria-roledescription="Message" aria-labelledby="message-username-917145465760391169 uid_1 message-content-917145596157108254 uid_2 message-timestamp-917145596157108254" aria-describedby="">
+<p><!--Description under Title--></p>
+<div class="contents-2mQqc9">
+<div id="message-content-917145596157108254" class="markup-2BOw-j messageContent-2qWWxC" style="text-align: center;">We help people achieve independence by making it easier to start, run, and grow a business.&nbsp;</div>
+</div>
+</div>
+
+[/col]
+
+[/row]
+
+[/section]
+[section label="Image Block"]
+
+[gap]
+
+<p><!--Modifiying Picture 1--></p>
+[row style="small" v_align="middle"]
+
+[col span="3" span__sm="12" span__md="6"]
+
+[ux_banner height="300px" height__sm="99.99%" height__md="400px" bg="181" bg_color="rgb(255, 255, 255)" bg_pos="48% 48%"]
+
+
+[/ux_banner]
+
+[/col]
+<p><!--Modifiying Picture 2--></p>
+[col span="3" span__sm="12" span__md="6"]
+
+[ux_banner height="420px" height__sm="99.99%" height__md="400px" bg="180" bg_color="rgb(255, 255, 255)" bg_pos="85% 77%"]
+
+
+[/ux_banner]
+
+[/col]
+[col span="6" span__sm="12" span__md="12" padding="0px 0px 0px 10%" padding__md="0px 0px 0px 0"]
+
+[gap height__md="15px"]
+
+<p><!--Right Text--></p>
+[ux_text font_size="1.5"]
+
+<h2 style="text-align: center;"><strong>Our Mission</strong></h2>
+[/ux_text]
+[ux_text text_align__sm="center"]
+
+<p><!--Description Of Right Text--></p>
+<p style="text-align: center;">Today, businesses of all sizes use E-Rocket, whether they’re selling online, in retail stores, or on-the-go with our simplified marketplace and easy transactions</p>
+[/ux_text]
+
+[/col]
+
+[/row]
+
+[/section]
+<p><!--Section Color Example--></p>
+[section label="Testimonials" bg_color="rgb(244, 244, 244)"]
+
+[row]
+
+<p><!--Position Of Header--></p>
+[col span__sm="12" margin="40px 0px 0px 0px" align="center"]
+
+<h2>You're in Safe Hands !</h2>
+<p><!--Default Template Code For Design--></p>
+<div class="message-2qnXI6 cozyMessage-3V1Y8y wrapper-2a6GCs cozy-3raOZG zalgo-jN1Ica" tabindex="-1" role="article" data-list-item-id="chat-messages___chat-messages-917153147913404416" aria-setsize="-1" aria-roledescription="Message" aria-labelledby="message-username-917151441121054770 uid_1 message-content-917153147913404416 uid_2 message-timestamp-917153147913404416" aria-describedby="">
+<div class="contents-2mQqc9">
+<div id="message-content-917153147913404416" class="markup-2BOw-j messageContent-2qWWxC">None of the ecommerce solutions at the time gave us the control we needed to be successful—so we built our own.</div>
+</div>
+</div>
+
+[/col]
+
+[/row]
+[row col_bg="rgb(255,255,255)" v_align="equal" padding="40px 40px 40px 40px"]
+
+<p><!--Review 1--></p>
+[col span="6" span__sm="12"]
+
+<blockquote>
+<p>I had a great time skimming through various categories of items with how simple it is to navigate through. It is indeed a successful market for both customer and a business person !</p>
+</blockquote>
+<p>&nbsp;<br />
+<!--ID of Image 189 190--></p>
+[featured_box img="189" img_width="50" pos="left" font_size="small" class="circle"]
+
+<h3 style="margin-bottom:0px;">Andy Guscott</h3>
+<p>Developer, Google</p>
+
+[/featured_box]
+
+[/col]
+[col span="6" span__sm="12"]
+
+<p><!--Default Template Code For Design--></p>
+<blockquote>
+<div class="messagesWrapper-1sRNjr group-spacing-16">
+<div class="scroller-2LSbBU auto-Ge5KZx scrollerBase-289Jih disableScrollAnchor-3V9UtP" dir="ltr" tabindex="-1" role="group" data-jump-section="global">
+<div class="scrollerContent-WzeG7R content-3YMskv">
+<div class="message-2qnXI6 cozyMessage-3V1Y8y groupStart-23k01U wrapper-2a6GCs cozy-3raOZG zalgo-jN1Ica" tabindex="-1" role="article" data-list-item-id="chat-messages___chat-messages-917151441121054770" aria-setsize="-1" aria-roledescription="Message" aria-labelledby="message-username-917151441121054770 uid_1 message-content-917151441121054770 uid_2 message-timestamp-917151441121054770" aria-describedby="">
+<p><!--Review 2--></p>
+<div class="contents-2mQqc9">
+<div id="message-content-917151441121054770" class="markup-2BOw-j messageContent-2qWWxC">I just wanted to share a quick note and let you know that you guys do a really good job. I’m glad I decided to work with you. It’s really great how easy your websites are to update and manage!</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+[gap]
+
+[featured_box img="190" img_width="50" pos="left" font_size="small" class="circle"]
+
+<h3 style="margin-bottom:0px;">Kirstin W. Everton</h3>
+<p>Graphic Designer, Apple</p>
+
+[/featured_box]
+
+[/col]
+
+[/row]
+<p><!--Pictures with hover effects--></p>
+[row]
+
+[col span="2" span__sm="4"]
+
+[ux_image id="188" image_overlay="rgba(244, 244, 244, 0.7)" image_hover="overlay-remove-50" link="#"]
+
+
+[/col]
+[col span="2" span__sm="4"]
+
+[ux_image id="187" image_overlay="rgba(244, 244, 244, 0.7)" image_hover="overlay-remove-50"]
+
+
+[/col]
+[col span="2" span__sm="4"]
+
+[ux_image id="191" width="60" margin="0px 0px 0px 0px" image_overlay="rgba(244, 244, 244, 0.7)" image_hover="overlay-remove-50"]
+
+
+[/col]
+[col span="2" span__sm="4"]
+
+[ux_image id="185" image_overlay="rgba(244, 244, 244, 0.7)" image_hover="overlay-remove-50"]
+
+
+[/col]
+[col span="2" span__sm="4"]
+
+[ux_image id="184" image_overlay="rgba(244, 244, 244, 0.7)" image_hover="overlay-remove-50"]
+
+
+[/col]
+[col span="2" span__sm="4"]
+
+[ux_image id="183" image_overlay="rgba(244, 244, 244, 0.7)" image_hover="overlay-remove-50"]
+
+
+[/col]
+
+[/row]
+
+[/section]
+<p>

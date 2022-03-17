@@ -1,0 +1,73 @@
+<!-- wp:html -->
+<!-- Background banner main -->
+[section label="Hero" bg="211" bg_color="rgb(40, 40, 40)" bg_overlay="rgba(0, 0, 0, 0.471)" bg_pos="46% 27%" dark="true" padding="140px"]
+
+[row label="Title"]
+<!-- Font/Alignment For Main Title -->
+[col span__sm="12" padding="20px 0px 0px 0px" align="center"]
+<h2 style="font-size:200%;">Get in touch</h2>
+Want to get in touch? We'd love to hear from you. Here's how you can reach us...
+
+[/col]
+
+[/row]
+
+[/section]
+[section label="Content" bg_color="rgb(244, 244, 244)"]
+
+[row label="Blocks"]
+
+[col span__sm="12" margin="-100px 0px 0px 0px"]
+
+[row_inner col_bg="rgb(255,255,255)" v_align="equal" padding="40px 40px 40px 40px"]
+
+[col_inner span="6" span__sm="12" align="center"]
+<!-- Talk To Sales Box-->
+[featured_box img="307" pos="center"]
+<h4>Talk to sales</h4>
+Interested in our products? Just pick up the phone and call us.
+
+[gap height="20px"]
+<!-- Call Now Button-->
+[button text="Call Now !" expand="0" link="tel:+96181670197"]
+
+[/featured_box]
+
+[/col_inner]
+[col_inner span="6" span__sm="12" align="center"]
+<!-- Contact Support Box -->
+[featured_box img="203" pos="center"]
+<h4>Contact support</h4>
+Sometimes you need a little help. Don't worry, We're here for you.
+
+[gap height="20px"]
+
+[/featured_box]
+<!-- Email Contact Us -->
+[button text="Contact Us !" link="mailto:contact@e-rocket.site"]
+
+[/col_inner]
+[col_inner span__sm="12" align="center" bg_color="rgb(255,255,255)"]
+<h3>Ask a question</h3>
+[divider]
+
+[row_inner_1 h_align="center"]
+
+[col_inner_1 span="9" span__sm="12" span__md="11" align="left"]
+
+[contact-form-7 id="536"]
+
+[/col_inner_1]
+
+[/row_inner_1]
+
+[/col_inner]
+
+[/row_inner]
+
+[/col]
+
+[/row]
+
+[/section]
+<!-- /wp:html -->
